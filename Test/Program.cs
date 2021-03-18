@@ -8,7 +8,7 @@ namespace Test
         static void Main(string[] args)
 
         {
-            System.Console.WriteLine("Test");
+            System.Console.WriteLine("Test1");
 
         }
 
